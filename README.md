@@ -5,6 +5,7 @@
 # 🧠 Computer Vision & Natural Language Processing
 
 This repository showcases my work, assignments, and learning outcomes from the **Computer Vision and Natural Language Processing** module at Taylor’s University.  
+
 Throughout this course, I gained hands-on experience in **Machine Learning, Deep Learning, Image Classification, Text Preprocessing, Tokenization, Neural Networks, and Real-World AI Applications**.
 
 The module covered both **Computer Vision (CV)** and **Natural Language Processing (NLP)** using modern AI techniques such as **Convolutional Neural Networks (CNNs)**, text feature extraction, and understanding of neural network architectures.
