@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="/assets/github-header-banner.png" width="100%">
+</p>
+
 # 🧠 Computer Vision & Natural Language Processing
 
 This repository showcases my work, assignments, and learning outcomes from the **Computer Vision and Natural Language Processing** module at Taylor’s University.  
